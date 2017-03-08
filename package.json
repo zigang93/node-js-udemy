@@ -1,0 +1,22 @@
+{
+  "name": "notes-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zigang93/node-js-udemy.git"
+  },
+  "author": "Tan Zi Gang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zigang93/node-js-udemy/issues"
+  },
+  "homepage": "https://github.com/zigang93/node-js-udemy#readme",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
